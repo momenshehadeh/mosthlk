@@ -1,22 +1,42 @@
-# Live Website 
-[Live Here](https://mosthlk.vercel.app/)
+# 🌐 Live Website 
+[Live Here](https://excellent-academy.vercel.app/)
 
 
 
-# 💻 Mosthlk 
-Your Trusted Online Store Mosthlk is an online store that provides you with an easy and secure online shopping experience. We strive to provide the best deals and highest-quality products to reach you wherever you are, quickly and reliably.
+# 🎓 Excellent Academy 
+Your Modern E-Learning & Management Platform. Excellent Academy provides an interactive learning environment for students alongside a comprehensive, data-driven analytics dashboard for educators and admins. We strive to deliver top-tier educational experiences, real-time performance tracking, and seamless course management.
 
 
 
-# React + Vite
+# 📸 Screenshots
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🏠 Landing Page
+![Landing Page](./public/screenshots/landing.png)
 
-Currently, two official plugins are available:
+### 📊 Admin Analytics Dashboard
+![Dashboard](./public/screenshots/dashboard.png)
 
-[@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-[@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Next.js + Tailwind CSS
+
+This template provides a minimal setup to get Next.js working with App Router, Tailwind CSS, and optimized font loading.
+
+Currently configured with:
+
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Font Optimization:** [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) using the Geist font family.
+
+## 🚀 Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
