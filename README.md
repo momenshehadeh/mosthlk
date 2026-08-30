@@ -11,10 +11,8 @@ Your Trusted Fresh Grocery & Produce Store. Mosthlk is an online platform that o
 # 📸 Screenshots
 
 ### 🏠 Home & Store Page
-![Home Page](./public/screenshots/landing.png)
+![Home Page](./public/landing.png)
 
-### 📊 Admin & Analytics Dashboard
-![Dashboard](./public/screenshots/dashboard.png)
 
 
 
